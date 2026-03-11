@@ -1,0 +1,36 @@
+baseurl = "https://raynergonzalezprendes.com/"
+languageCode = "en-us"
+theme = "terminal"
+pagination.pagerSize = 5
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[params]
+  contentTypeName = "posts"
+  showMenuItems = 3
+  fullWidthTheme = false
+  centerTheme = false
+
+[languages.en]
+  title = "Rayner González Prendes"
+  subtitle = "CV & Blog Académico"
+  copyright = "© 2026 Rayner González Prendes"
+
+  [languages.en.params.logo]
+    logoText = "Rayner GP"
+    logoHomeLink = "/"
+
+  [languages.en.menu]
+    [[languages.en.menu.main]]
+      identifier = "about"
+      name = "Sobre mí"
+      url = "/about"
+    [[languages.en.menu.main]]
+      identifier = "posts"
+      name = "Blog"
+      url = "/posts"
+    [[languages.en.menu.main]]
+      identifier = "cv"
+      name = "CV"
+      url = "/cv"
