@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Rayner González Prendes</title>
-    <link>https://raynergonzalezprendes.com/categories/</link>
+    <link>https://rprendes.github.io/rayner-prendes/categories/</link>
     <description>Recent content in Categories on Rayner González Prendes</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>© 2026 Rayner González Prendes</copyright>
-    <atom:link href="https://raynergonzalezprendes.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://rprendes.github.io/rayner-prendes/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

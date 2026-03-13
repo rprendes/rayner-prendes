@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Rayner González Prendes</title>
-    <link>https://raynergonzalezprendes.com/posts/</link>
+    <link>https://rprendes.github.io/rayner-prendes/posts/</link>
     <description>Recent content in Posts on Rayner González Prendes</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>© 2026 Rayner González Prendes</copyright>
     <lastBuildDate>Fri, 13 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://raynergonzalezprendes.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://rprendes.github.io/rayner-prendes/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bienvenido a mi Blog</title>
-      <link>https://raynergonzalezprendes.com/posts/bienvenido/</link>
+      <link>https://rprendes.github.io/rayner-prendes/posts/bienvenido/</link>
       <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://raynergonzalezprendes.com/posts/bienvenido/</guid>
+      <guid>https://rprendes.github.io/rayner-prendes/posts/bienvenido/</guid>
       <description>Bienvenido Este es mi blog donde comparto artículos sobre genómica, bioinformática, genética animal y ciencia de datos aplicada a la producción animal.&#xA;Mantente atento a mis próximas publicaciones sobre:&#xA;Análisis de datos genómicos Multi-omics integration Mejora genética en ganadería Bioinformática y estadística © 2026 R Gonzalez-Prendes, PhD.</description>
     </item>
     <item>
       <title>Hello Friend</title>
-      <link>https://raynergonzalezprendes.com/posts/hello/</link>
+      <link>https://rprendes.github.io/rayner-prendes/posts/hello/</link>
       <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://raynergonzalezprendes.com/posts/hello/</guid>
+      <guid>https://rprendes.github.io/rayner-prendes/posts/hello/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante. Donec quis dolor nec nunc mollis interdum vel in purus. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.&#xA;Fusce pharetra suscipit orci nec tempor.</description>
     </item>
   </channel>

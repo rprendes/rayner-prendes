@@ -1,4 +1,4 @@
-baseurl = "https://raynergonzalezprendes.com/"
+baseurl = "https://rprendes.github.io/rayner-prendes/"
 languageCode = "en-us"
 theme = "terminal"
 pagination.pagerSize = 5
