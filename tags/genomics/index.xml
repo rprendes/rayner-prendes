@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Genomics on Rayner González Prendes</title>
+    <link>https://rprendes.github.io/rayner-prendes/tags/genomics/</link>
+    <description>Recent content in Genomics on Rayner González Prendes</description>
+    <generator>Hugo -- 0.146.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 13 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://rprendes.github.io/rayner-prendes/tags/genomics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bienvenido a mi Blog</title>
+      <link>https://rprendes.github.io/rayner-prendes/posts/bienvenido/</link>
+      <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://rprendes.github.io/rayner-prendes/posts/bienvenido/</guid>
+      <description>&lt;h1 id=&#34;bienvenido&#34;&gt;Bienvenido&lt;/h1&gt;
+&lt;p&gt;Este es mi blog donde comparto artículos sobre genómica, bioinformática, genética animal y ciencia de datos aplicada a la producción animal.&lt;/p&gt;
+&lt;p&gt;Mantente atento a mis próximas publicaciones sobre:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Análisis de datos genómicos&lt;/li&gt;
+&lt;li&gt;Multi-omics integration&lt;/li&gt;
+&lt;li&gt;Mejora genética en ganadería&lt;/li&gt;
+&lt;li&gt;Bioinformática y estadística&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;© 2026 R Gonzalez-Prendes, PhD.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
